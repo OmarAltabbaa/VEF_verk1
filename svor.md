@@ -32,3 +32,8 @@ git branch - Sýnir lista yfir allar staðtengdar (local) greinar.
 
 ## 6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
 Þú ættir að skuldbinda þig eftir hvert skref svo að verkið verði vistað.
+
+## 7. Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT?
+Working Directory : Þú byrjar að skrifa skrifað á fullu sem þú ert ýmist vistar eða hendir.
+
+“Staging Area : Þú tekur saman það sem þú ert að gera reglulega (lágmark á klukkutíma fresti) og skráir atriðin í vinnuskrána (Working Directory).
