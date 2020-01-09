@@ -30,3 +30,5 @@ git branch - Sýnir lista yfir allar staðtengdar (local) greinar.
 
 Það er einnig hægt að nota til að búa til kóðaskrár tré.
 
+## 6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
+Þú ættir að skuldbinda þig eftir hvert skref svo að verkið verði vistað.
