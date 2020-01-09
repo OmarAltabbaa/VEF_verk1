@@ -14,3 +14,10 @@ git clone -Klónar Git geymslu á nýtt vinnusvæði, allar skráningar fylgja m
 git status - Sýnir stöðu HEAD
 
 git diff - Sýnir breytingar sem þú ert að vinna í frá síðustu skráningu (commit).
+
+## 3. Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
+git log - Sýnir lista yfir allar skráningar (commit) sem gerðar hafa verið í greininni sem HEAD bendir á.
+
+git checkout - Þegar farið er á milli greina (branches) notum við skipunina checkout. HEAD fylgist með stöðunni og skráir í vinnuskrána.
+
+git branch - Sýnir lista yfir allar staðtengdar (local) greinar.
