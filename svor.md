@@ -7,3 +7,5 @@ ls - Listaðu skrár í Linux
 pwd - Ákvarðar hvar þú ert
 
 mkdir -til að búa directory
+
+Erum komnir í newBranch og okkur líst vel á þetta
