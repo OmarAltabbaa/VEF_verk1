@@ -21,3 +21,6 @@ git log - Sýnir lista yfir allar skráningar (commit) sem gerðar hafa verið �
 git checkout - Þegar farið er á milli greina (branches) notum við skipunina checkout. HEAD fylgist með stöðunni og skráir í vinnuskrána.
 
 git branch - Sýnir lista yfir allar staðtengdar (local) greinar.
+
+## 4. Hvað er útgáfustýring (Version Control)?
+Útgáfustjórnun er kerfi sem skráir breytingar á skrá eða sett af skrám með tímanum þannig að þú getur munað tilteknar útgáfur síðar.
