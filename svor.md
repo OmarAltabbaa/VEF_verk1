@@ -24,3 +24,9 @@ git branch - Sýnir lista yfir allar staðtengdar (local) greinar.
 
 ## 4. Hvað er útgáfustýring (Version Control)?
 Útgáfustjórnun er kerfi sem skráir breytingar á skrá eða sett af skrám með tímanum þannig að þú getur munað tilteknar útgáfur síðar.
+
+## 5. Hverjir eru helstu kostir við að nota GIT?
+Það gerir þér kleift að bera saman kóðabreytingar yfir tímabil og fylgjast með því hver gerði breytingarnar.
+
+Það er einnig hægt að nota til að búa til kóðaskrár tré.
+
